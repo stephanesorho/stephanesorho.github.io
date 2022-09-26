@@ -9,5 +9,8 @@ I plan on using this home page to guide new student on the courses they can take
 ![Screen Shot 2022-09-25 at 5 16 54 PM](https://user-images.githubusercontent.com/97770592/192172366-59c9cb99-55ed-4ad7-b881-86d62dba8343.png)
 
 The website is mainly composed of buttons and links you can click that will give you more information on the program and courses
-The second page is a small animation of my degree progress
+
+The second page is a small animation of my degree progress:
+
+![Screen Shot 2022-09-25 at 5 20 01 PM](https://user-images.githubusercontent.com/97770592/192172532-3ad73054-a6d9-4648-87c9-627c03f30c1c.png)
 
