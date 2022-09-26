@@ -38,7 +38,7 @@ body {
     top: 50%;
     right: 5px;
     transform: translateY(-50%);
-    font: bold 14px 'Quicksand', sans-serif;
+    font: bold 14px sans-serif;
     color: #ffffff;
 }
 
