@@ -1,8 +1,8 @@
 # stephanesorho.github.io
 
-CS5610 Project 1: My personal home page
+**CS5610 Project 1: My personal home page**
 
-Objective: This home page containing information about courses taken so far during my master's degree. I am currently applying for a role as Student Ambassador at the San Francisco Campus
+**Objective:** This home page containing information about courses taken so far during my master's degree. I am currently applying for a role as Student Ambassador at the San Francisco Campus
 I plan on using this home page to guide new student on the courses they can take and how to contact me if they need want to learn more about my experience
 
 
